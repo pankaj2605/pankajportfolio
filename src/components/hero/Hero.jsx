@@ -42,7 +42,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              Founder of JGS Doors, Experience of 3+yrs Experience in Consultant, 2yrs in NodeJS.
+              Experience of 3+yrs as Consultant, 2yrs in NodeJS.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
