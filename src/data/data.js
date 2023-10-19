@@ -20,9 +20,9 @@ export const data = [
   {
     id: 1,
     img: 'https://i.postimg.cc/9MhRFQwZ/Food-App.png',
-    title: "Food Order App",
+    title: "JGS Food Order App",
     desc: "Order your Food",
-    link: "https://github.com/pankaj2605/FoodAppReactJS",
+    link: "https://jgsmeals.onrender.com/",
     git: "https://github.com/pankaj2605/FoodAppReactJS",
   }
   
