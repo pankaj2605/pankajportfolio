@@ -25,6 +25,62 @@ const Resume = () => {
             <legend className=" w-auto ml-[50%] translate-x-[-50%] border-2 border-gray-200 rounded-3xl py-1 px-8 font-semibold text-xl text-yellow-500">
               Experience
             </legend>
+            <div className=" relative my-6">
+              {/* design */}
+              <div className="design flex absolute left-[-150px] top-1/2 items-center rotate-[90deg] sm:left-[-160px] ">
+                <div className="c1 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
+                <div className="line w-[230px] bg-gray-300 h-[2px] sm:w-[250px]"></div>
+                <div className="c2 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
+              </div>
+              {/* design */}
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                Full Stack Developer
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                Aceteq Web Services Pvt Ltd
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                February 2022 - Present
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                  Contributed to frontend development with a primary focus on React-based applications in Asghal Project Management System.
+                  Developed  user interaction for failed integration and log view, using modern React applications resulting in improved user experience
+                  Troubleshot and maintained  company websites, ensuring fast and optimal performance.
+                  Worked closely with the UI/UX team to resolving technical and functional queries.
+                  Involved in mapping discussion to facilitate the utility development.
+
+                </p>
+              </div>
+            </div>
+            <div className=" relative my-6">
+              {/* design */}
+              <div className="design flex absolute left-[-150px] top-1/2 items-center rotate-[90deg] sm:left-[-160px] ">
+                <div className="c1 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
+                <div className="line w-[230px] bg-gray-300 h-[2px] sm:w-[250px]"></div>
+                <div className="c2 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
+              </div>
+              {/* design */}
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                Web Developer
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Jai Guru Sai Doors
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  August 2020 - January 2022
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                  Founder of JGS Door. Responsible for designing and maintaining company's website.
+                  Implemented React Hooks in  projects, enhancing code reusability and efficiency.
+                  Identified and fixed  issues in web properties, improving website usability
+                  Handling techincals, operationals, and sales of JGS Door . 
+                  JGS Door is in manufacture and disturbution of Doors ,lamination Doors, Plywood Doors and Teak Doors in variours parts of Jharkhand and Bihar.
+                </p>
+              </div>
+            </div>
+           
             <div className=" relative">
               {/* design */}
               <div className="design flex absolute left-[-150px] top-1/2 items-center rotate-[90deg] sm:left-[-160px] ">
@@ -47,57 +103,6 @@ const Resume = () => {
                 Configuring and deploying YSoft Safeq,  which is an accounting software. Understanding company environment, client  system  and there requirement and  integrate layer between client and
                 company to optimize printing jobs. And to ensure all the print copy and scan operations can be
                 tracked at user access to output devices to centrally controlled system.
-                </p>
-              </div>
-            </div>
-            <div className=" relative my-6">
-              {/* design */}
-              <div className="design flex absolute left-[-150px] top-1/2 items-center rotate-[90deg] sm:left-[-160px] ">
-                <div className="c1 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
-                <div className="line w-[230px] bg-gray-300 h-[2px] sm:w-[250px]"></div>
-                <div className="c2 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
-              </div>
-              {/* design */}
-              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
-                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Founder
-                </h1>
-                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Jai Guru Sai Doors
-                </span>
-                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  August 2020 - January 2022
-                </span>
-                <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Founder of JGS Door, Handling techincals , operationals, and sales of JGS Door . 
-                  JGS Door is in manufacture and disturbution of Doors ,lamination door, plywood doors and teak doors in variours parts of Jharkhand and Bihar.
-                </p>
-              </div>
-            </div>
-            <div className=" relative my-6">
-              {/* design */}
-              <div className="design flex absolute left-[-150px] top-1/2 items-center rotate-[90deg] sm:left-[-160px] ">
-                <div className="c1 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
-                <div className="line w-[230px] bg-gray-300 h-[2px] sm:w-[250px]"></div>
-                <div className="c2 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
-              </div>
-              {/* design */}
-              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
-                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                Software Engineer
-                </h1>
-                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                Aceteq Web Services Pvt Ltd
-                </span>
-                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                February 2022 - Present
-                </span>
-                <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Handling Ashghal Project Management System(APMS), i am in, Involved in discussion to understand different system and their Business Process to be integrated to bring whole project life cycle of PWA on same page.
-                  Involved in Mapping Discussions to facilitate the utility development.
-                  Gathering and understanding client requirements, perform fit gap analysis and suggest solutions using P6 EPPM
-                  Development of Utility , testing in different env, Deployment into Server.
-                  Resolving Technical and Functional queries of P6 EPPM & Primavera Unifier
                 </p>
               </div>
             </div>
