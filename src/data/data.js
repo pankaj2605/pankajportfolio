@@ -24,6 +24,14 @@ export const data = [
     desc: "Order your Food",
     link: "https://jgsmeals.onrender.com/",
     git: "https://github.com/pankaj2605/FoodAppReactJS",
+  },
+  {
+    id: 4,
+    img: 'https://i.postimg.cc/1XMKVKdw/mern-blog.png',
+    title: "JGS Blog ",
+    desc: "Read and Share development Blog",
+    link: "https://mern-blog-4r2e.onrender.com/",
+    git: "https://github.com/pankaj2605/mern-blog",
   }
   
 ];
