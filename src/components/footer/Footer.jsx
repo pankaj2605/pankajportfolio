@@ -14,7 +14,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1000"
 
-            href="https://msng.link/o?pankajs2167=tg"
+            href="https://msng.link/o?pankajkumar0712=tg"
             className="box font-medium text-white   flex items-center justify-center flex-col"
           >
             <FaTelegramPlane className=" text-black text-3xl hover:scale-125 cursor-pointer" />
@@ -23,7 +23,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1200"
 
-            href="https://wa.link/tnvkeo"
+            href="https://wa.link/gu7eip"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <IoLogoWhatsapp className=" text-black text-3xl hover:scale-125 cursor-pointer" />

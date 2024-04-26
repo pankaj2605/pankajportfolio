@@ -60,7 +60,7 @@ const Contact = () => {
             data-aos="zoom-in"
             
             className="flex justify-center items-center flex-col gap-5 w-[70%] md:w-[100%] sm:w-[95%] mx-auto"
-            action={`mailto:pankajs2167@gmail.com? subject=Regarding ${contact.name} &body=${contact.message}`}
+            action={`mailto:pankajkumar071221@gmail.com? subject=Regarding ${contact.name} &body=${contact.message}`}
             
           >
             <input
@@ -96,7 +96,7 @@ const Contact = () => {
               type="submit"
             >
               {/* <span>Send</span> */}
-              <Link to={`mailto:pankajs2167@gmail.com?subject=Regarding Freelancing work, Name:${contact.name}, Contact Email id:${contact.email} &body=${contact.message}`} > Send </Link>
+              <Link to={`mailto:pankajkumar071221@gmail.com?subject=Regarding Freelancing work, Name:${contact.name}, Contact Email id:${contact.email} &body=${contact.message}`} > Send </Link>
               <RiSendPlaneFill/>
             </button>
           </form>
