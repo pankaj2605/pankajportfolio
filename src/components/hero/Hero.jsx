@@ -8,7 +8,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/PankajKumar_FullStack_Developer.pdf";
+import resumePDF from "../../assets/Pankaj_Kumar.pdf";
 import { Link } from "react-router-dom";
 
 
@@ -42,7 +42,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              Experience of 4+ yrs as Consultant, 2 yrs in ReactJS & NodeJS.
+              Experience of 4.5+ yrs in ReactJS & NodeJS.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
@@ -74,7 +74,7 @@ const Hero = () => {
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/pankaj-kumar-0443b71b7/">
+                <a href="https://www.linkedin.com/in/pankaj-kumar-a57840306/">
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
