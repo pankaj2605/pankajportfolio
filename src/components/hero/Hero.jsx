@@ -8,7 +8,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Pankaj_Kumar.pdf";
+import resumePDF from "../../assets/PANKAJ_KUMAR.pdf";
 import { Link } from "react-router-dom";
 
 
