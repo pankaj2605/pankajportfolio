@@ -32,6 +32,14 @@ export const data = [
     desc: "Read and Share development Blog",
     link: "https://mern-blog-4r2e.onrender.com/",
     git: "https://github.com/pankaj2605/mern-blog",
+  },
+  {
+    id: 4,
+    img: 'https://i.postimg.cc/mkwKdngZ/apple-iphone15.png',
+    title: "Recreate Apple iPhone 15 Pro",
+    desc: "Read and Share development Blog",
+    link: "https://apple-iphone-2fjx.onrender.com/",
+    git: "https://github.com/pankaj2605/Apple_iphone",
   }
   
 ];
